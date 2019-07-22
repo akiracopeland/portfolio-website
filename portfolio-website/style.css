@@ -1,0 +1,49 @@
+#meme-generator {
+  border: solid 3px;
+}
+
+#powered-by {
+  text-align: right;
+}
+
+#scroll-meme {
+  background-color: #ccc;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+#scroll-meme #memes img {
+  display: inline-block;
+  margin: 5px;
+}
+
+#text0, #text1 {
+  height:40px;
+  width: 298px;
+  font-size:14pt;
+  margin: 2px;
+}
+
+#nasa-apod {
+  border: solid 2px;
+  margin-top: 10px;
+}
+
+#nasa-img {
+  max-width: 100%;
+  height: auto;
+}
+
+#profile-picture {
+  max-width: 300px;
+  height: auto;
+  margin: 10px;
+}
+
+#profile-content {
+  justify-content: center;
+}
+
+#contact-info {
+  justify-content: center;
+}
