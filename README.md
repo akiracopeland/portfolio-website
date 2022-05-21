@@ -1,3 +1,3 @@
 # portfolio-website
-Portfolio Website for practice
-Used Imgflip API and NASA API for REST API practice.
+Portfolio Website - 
+used Imgflip API and NASA API for REST API practice.
